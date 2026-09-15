@@ -15,7 +15,7 @@
 - 🚀 I also building data-facing tools — like an AI-powered analytics platform using **FastAPI**.
 - 🌱 Currently sharpening my skills in advanced SQL, dashboarding, and statistics.
 - 🎯 Looking for **Data Analyst / Junior Data Analyst** roles where I can turn numbers into decisions.
-- 📫 Reach me at: **ak0449369l@gmail.com** | [LinkedIn](www.linkedin.com/in/anas-khan-3344a919b) | [Portfolio](https://anaskhan-174.github.io/)
+- 📫 Reach me at: **ak0449369l@gmail.com** | [LinkedIn](https://www.linkedin.com/in/anas-khan-3344a919b) | [Portfolio](https://anaskhan-174.github.io/)
 
 ---
 
