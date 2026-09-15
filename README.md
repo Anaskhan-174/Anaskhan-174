@@ -16,7 +16,7 @@ I'm a **Data Analyst / Analytics-focused MCA graduate** who enjoys turning raw d
 - 🗄️ Work with **PostgreSQL and SQL Server** for querying and database-driven analysis.
 - 📈 Build interactive Power BI dashboards focused on KPIs, trends, comparisons, and business questions.
 - 💡 Interested in projects where analysis leads to a clear business action or recommendation.
-- 🚀 Also building **Project Atlas**, an AI-powered analytics platform for automated data profiling and cleaning.
+- 🚀 Also building **Project Atlas**, an analytics automation platform for automated data profiling and cleaning.
 - 🎯 Currently looking for **Data Analyst / Junior Data Analyst** opportunities.
 
 📫 **Email:** ak0449369l@gmail.com  
@@ -54,13 +54,6 @@ The dashboard highlights market concentration, property pricing, rating patterns
 
 ---
 
-### ⛷️ [Global Ski Resort Dashboard](https://github.com/Anaskhan-174/Ski-dashboard)
-A Power BI dashboard focused on exploring and comparing ski resorts across regions, including resort characteristics, terrain difficulty, elevation, lift infrastructure, and skier suitability.
-
-`Power BI` `Power Query` `DAX` `Data Visualization`
-
----
-
 ### 🏦 [Banking Management System](https://github.com/Anaskhan-174/Banking-Management-system)
 A database-driven desktop banking application built with **C# Windows Forms and SQL Server**, covering customer management, accounts, deposits, withdrawals, fund transfers, balances, and transaction reporting.
 
@@ -69,7 +62,7 @@ A database-driven desktop banking application built with **C# Windows Forms and 
 ---
 
 ### 🚀 [Project Atlas](https://github.com/Anaskhan-174/ProjectAtlas) · 🚧 In Progress
-An AI-powered **Decision Intelligence / Data Analytics Platform** designed to accept CSV and Excel data, profile datasets, perform automated cleaning, and progressively generate business insights and reporting.
+An analytics automation platform currently being built to accept CSV and Excel data, profile datasets, perform automated cleaning, and progressively add business insights, dashboards, and reporting capabilities.
 
 `Python` `FastAPI` `Pandas` `Plotly`
 
