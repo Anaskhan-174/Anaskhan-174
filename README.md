@@ -1,58 +1,100 @@
 <h1 align="center">Hi, I'm Anas Khan 👋</h1>
-<h3 align="center">Data Analyst | Turning Raw Data into Business Decisions</h3>
+<h3 align="center">Data Analyst | Turning Data into Business Decisions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Python+%7C+SQL+%7C+Power+BI;Data+Cleaning+%E2%86%92+Analysis+%E2%86%92+Insights;Building+data-driven+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=520&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Cleaning+%E2%86%92+Analysis+%E2%86%92+Insights;Building+Business-Focused+Analytics+Projects" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🔎 I'm a **Data Analyst** who enjoys digging into messy data and pulling out insights that actually help a business decide something.
-- 🛠️ I work mainly with **Python, SQL (PostgreSQL), and Power BI** to clean, analyze, and visualize data end-to-end.
-- 📊 My recent project analyzed **3,900+ transactional records** to uncover customer purchasing behavior and subscription trends.
-- 🚀 I also building data-facing tools — like an AI-powered analytics platform using **FastAPI**.
-- 🌱 Currently sharpening my skills in advanced SQL, dashboarding, and statistics.
-- 🎯 Looking for **Data Analyst / Junior Data Analyst** roles where I can turn numbers into decisions.
-- 📫 Reach me at: **ak0449369l@gmail.com** | [LinkedIn](https://www.linkedin.com/in/anas-khan-3344a919b) | [Portfolio](https://anaskhan-174.github.io/)
+I'm a **Data Analyst / Analytics-focused MCA graduate** who enjoys turning raw data into clear insights and practical business decisions.
 
----
+- 📊 I work with **Python, SQL, Excel, and Power BI** for data cleaning, analysis, reporting, and visualization.
+- 🐍 Use **Pandas** for practical data preparation and exploratory analysis.
+- 🗄️ Work with **PostgreSQL and SQL Server** for querying and database-driven analysis.
+- 📈 Build interactive Power BI dashboards focused on KPIs, trends, comparisons, and business questions.
+- 💡 Interested in projects where analysis leads to a clear business action or recommendation.
+- 🚀 Also building **Project Atlas**, an AI-powered analytics platform for automated data profiling and cleaning.
+- 🎯 Currently looking for **Data Analyst / Junior Data Analyst** opportunities.
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+📫 **Email:** ak0449369l@gmail.com  
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/anas-khan-3344a919b)  
+🌐 **Portfolio:** [anaskhan-174.github.io](https://anaskhan-174.github.io/)
 
 ---
 
-### 📌 Featured Projects
+## 🛠️ Skills & Tools
 
-#### 🔹 [Customer Behavior Analysis](https://github.com/Anaskhan-174/Customer_behavior_analysis)
-End-to-end analytics project on 3,900+ transactional records — data cleaning in Python, storage in PostgreSQL, and interactive dashboards in Power BI to reveal purchasing behavior and subscription trends.
-`Python` `PostgreSQL` `Power BI` `SQL`
-
-#### 🔹 [ProjectAtlas](https://github.com/Anaskhan-174/ProjectAtlas) 🚧 *in progress*
-An AI-powered data analytics platform in early development — FastAPI backend (`main.py`, routes, services) that will turn raw datasets into automated insights via API.
-`Python` `FastAPI` `Data Analytics`
-
-#### 🔹 [Banking Management System](https://github.com/Anaskhan-174/Banking-Management-system)
-A desktop banking application (Windows Forms) with login, accounts, deposits, withdrawals, transfers, and balance/transaction reporting — backed by SQL Server.
-`C#` `.NET` `SQL Server`
+**Analytics:** Python, Pandas, SQL, Excel, Power BI, DAX, Power Query  
+**Databases:** PostgreSQL, SQL Server  
+**Development:** C#, .NET, Windows Forms, FastAPI  
+**Other:** Git, GitHub, Data Visualization, Business Analysis, Data Storytelling
 
 ---
 
-### 📈 GitHub Stats
+## 📌 Featured Projects
+
+### 🛍️ [Customer Shopping Behavior Analysis](https://github.com/Anaskhan-174/Customer_behavior_analysis)
+An end-to-end analytics project analyzing **3,900 purchase records** to understand customer purchasing behavior, subscriptions, discounts, product performance, and customer segments.
+
+**Workflow:** Python → Data Cleaning & EDA → PostgreSQL → SQL Analysis → Power BI Dashboard
+
+`Python` `Pandas` `PostgreSQL` `SQL` `Power BI`
+
+---
+
+### 🌍 [Global Airbnb Performance Dashboard](https://github.com/Anaskhan-174/Global-Airbnb-Performance-Dashboard)
+An interactive Power BI dashboard analyzing **global Airbnb markets, listings, pricing, host performance, customer reviews, seasonality, and trust signals**.
+
+The dashboard highlights market concentration, property pricing, rating patterns, review behavior, and seasonal activity to support pricing, market, host, and customer-experience decisions.
+
+`Power BI` `Power Query` `DAX` `Data Visualization` `Business Analysis`
+
+---
+
+### ⛷️ [Global Ski Resort Dashboard](https://github.com/Anaskhan-174/Ski-dashboard)
+A Power BI dashboard focused on exploring and comparing ski resorts across regions, including resort characteristics, terrain difficulty, elevation, lift infrastructure, and skier suitability.
+
+`Power BI` `Power Query` `DAX` `Data Visualization`
+
+---
+
+### 🏦 [Banking Management System](https://github.com/Anaskhan-174/Banking-Management-system)
+A database-driven desktop banking application built with **C# Windows Forms and SQL Server**, covering customer management, accounts, deposits, withdrawals, fund transfers, balances, and transaction reporting.
+
+`C#` `.NET` `Windows Forms` `SQL Server` `ADO.NET`
+
+---
+
+### 🚀 [Project Atlas](https://github.com/Anaskhan-174/ProjectAtlas) · 🚧 In Progress
+An AI-powered **Decision Intelligence / Data Analytics Platform** designed to accept CSV and Excel data, profile datasets, perform automated cleaning, and progressively generate business insights and reporting.
+
+`Python` `FastAPI` `Pandas` `Plotly`
+
+---
+
+## 📈 What I Focus On
+
+- **Data Cleaning & Preparation** — turning messy datasets into analysis-ready data
+- **SQL Analysis** — using queries to answer practical business questions
+- **Dashboarding** — building KPI-driven Power BI reports
+- **Business Insights** — connecting analysis with recommendations and decisions
+- **Data Storytelling** — presenting findings in a simple, recruiter- and business-friendly way
+
+---
+
+## 🎯 Career Goal
+
+I'm looking to start my career in **Data Analytics**, where I can apply SQL, Python, Excel, and Power BI to solve real business problems and continue growing as an analyst.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anaskhan-174&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anaskhan-174&show_icons=true&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anaskhan-174&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
